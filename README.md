@@ -4,43 +4,7 @@
 
 MINIONS METAVERSE 
 LITE PAPER V1
-2021 NOV
- 
-
-
-Table of Contents
-
-1.	Introduction	
-2.	Minions metaverse	
-3.	Players	
-Minions	
-Dems	
-Antifa	
-Blacks	
-Immigrants	
-Fox:	
-FBI: Unlucky ones get caught	
-Jail:	
-Suitcase Bride: Best of the Minions get rewarded with a Suitcase bride from Estonia	4
-4.Minions Metaverse economy	
-User rewards	
-Deflationary	
-Token holder rewards	5
-MINI Token use cases	5
-Governance	5
-Problem: Trust issues	5
-Solution	5
-Problem: Excessive gas fee	5
-Solution	6
-5.	Tax structure	6
-6.	Tokenomics	7
-7.	Project Timeline	8
-
-
-
-
-
-
+2021 Nov
 
 
 Abstract: Minions Metaverse is a  multi-player interactive game that is played in a memefied virtual world that mimics real-life America.  
