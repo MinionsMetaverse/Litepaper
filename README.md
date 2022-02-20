@@ -9,22 +9,22 @@ LITE PAPER V1
 
 
 Table of Contents
-Abstract	2
-1.	Introduction	2
-2.	Minions metaverse	3
-3.	Players	3
-Minions	3
-Dems	4
-Antifa	4
-Blacks	4
-Immigrants	4
-Fox:	4
-FBI: Unlucky ones get caught	4
-Jail:	4
+
+1.	Introduction	
+2.	Minions metaverse	
+3.	Players	
+Minions	
+Dems	
+Antifa	
+Blacks	
+Immigrants	
+Fox:	
+FBI: Unlucky ones get caught	
+Jail:	
 Suitcase Bride: Best of the Minions get rewarded with a Suitcase bride from Estonia	4
-4.Minions Metaverse economy	4
-User rewards	4
-Deflationary	4
+4.Minions Metaverse economy	
+User rewards	
+Deflationary	
 Token holder rewards	5
 MINI Token use cases	5
 Governance	5
